@@ -1,0 +1,171 @@
+L 05/01/2020 - 11:26:37: Log file started (file "logs/L0501007.log") (game "/host/68019/43811/cstrike") (version "4100")
+L 05/01/2020 - 11:26:37: Loading map "de_dust2"
+L 05/01/2020 - 11:26:37: server cvars start
+L 05/01/2020 - 11:26:37: "stripper_version" = "1.2.2"
+L 05/01/2020 - 11:26:37: "sourcemod_version" = "1.9.0.6224"
+L 05/01/2020 - 11:26:37: "sm_nextmap" = "de_dust2"
+L 05/01/2020 - 11:26:37: "metamod_version" = "1.10.0V"
+L 05/01/2020 - 11:26:37: "zb_version" = "4.4"
+L 05/01/2020 - 11:26:37: "zb_status" = "7"
+L 05/01/2020 - 11:26:37: "mp_hostagepenalty" = "0"
+L 05/01/2020 - 11:26:37: "mp_buytime" = "1"
+L 05/01/2020 - 11:26:37: "mp_playerid" = "1"
+L 05/01/2020 - 11:26:37: "mp_fadetoblack" = "0"
+L 05/01/2020 - 11:26:37: "nextlevel" = ""
+L 05/01/2020 - 11:26:37: "mp_autoteambalance" = "0"
+L 05/01/2020 - 11:26:37: "mp_maxrounds" = "0"
+L 05/01/2020 - 11:26:37: "mp_startmoney" = "16000"
+L 05/01/2020 - 11:26:37: "mp_roundtime" = "1"
+L 05/01/2020 - 11:26:37: "mp_freezetime" = "3"
+L 05/01/2020 - 11:26:37: "mp_c4timer" = "35"
+L 05/01/2020 - 11:26:37: "mp_limitteams" = "0"
+L 05/01/2020 - 11:26:37: "sv_alltalk" = "0"
+L 05/01/2020 - 11:26:37: "mp_timelimit" = "0"
+L 05/01/2020 - 11:26:37: "sv_gravity" = "800"
+L 05/01/2020 - 11:26:37: "sv_stopspeed" = "75"
+L 05/01/2020 - 11:26:37: "sv_noclipaccelerate" = "5"
+L 05/01/2020 - 11:26:37: "sv_noclipspeed" = "5"
+L 05/01/2020 - 11:26:37: "sv_specaccelerate" = "5"
+L 05/01/2020 - 11:26:37: "sv_specspeed" = "3"
+L 05/01/2020 - 11:26:37: "sv_specnoclip" = "1"
+L 05/01/2020 - 11:26:37: "sv_maxspeed" = "320"
+L 05/01/2020 - 11:26:37: "sv_accelerate" = "5"
+L 05/01/2020 - 11:26:37: "sv_airaccelerate" = "10"
+L 05/01/2020 - 11:26:37: "sv_wateraccelerate" = "10"
+L 05/01/2020 - 11:26:37: "sv_waterfriction" = "1"
+L 05/01/2020 - 11:26:37: "sv_footsteps" = "1"
+L 05/01/2020 - 11:26:37: "sv_rollspeed" = "200"
+L 05/01/2020 - 11:26:37: "sv_rollangle" = "0"
+L 05/01/2020 - 11:26:37: "sv_friction" = "4"
+L 05/01/2020 - 11:26:37: "sv_bounce" = "0"
+L 05/01/2020 - 11:26:37: "sv_stepsize" = "18"
+L 05/01/2020 - 11:26:37: "mp_forcecamera" = "1"
+L 05/01/2020 - 11:26:37: "mp_allowspectators" = "1"
+L 05/01/2020 - 11:26:37: "mp_friendlyfire" = "1"
+L 05/01/2020 - 11:26:37: "sv_unlag" = "1"
+L 05/01/2020 - 11:26:37: "sv_maxunlag" = "1.0"
+L 05/01/2020 - 11:26:37: "tv_delay" = "90"
+L 05/01/2020 - 11:26:37: "mp_teamplay" = "0"
+L 05/01/2020 - 11:26:37: "mp_fraglimit" = "0"
+L 05/01/2020 - 11:26:37: "mp_falldamage" = "1"
+L 05/01/2020 - 11:26:37: "mp_weaponstay" = "0"
+L 05/01/2020 - 11:26:37: "mp_forcerespawn" = "1"
+L 05/01/2020 - 11:26:37: "mp_footsteps" = "1"
+L 05/01/2020 - 11:26:37: "mp_flashlight" = "0"
+L 05/01/2020 - 11:26:37: "mp_autocrosshair" = "1"
+L 05/01/2020 - 11:26:37: "decalfrequency" = "10"
+L 05/01/2020 - 11:26:37: "mp_allowNPCs" = "1"
+L 05/01/2020 - 11:26:37: "sv_cheats" = "0"
+L 05/01/2020 - 11:26:37: "sv_pausable" = "0"
+L 05/01/2020 - 11:26:37: "sv_contact" = "www.forum.sourcetm.com"
+L 05/01/2020 - 11:26:37: "sv_voiceenable" = "1"
+L 05/01/2020 - 11:26:37: "sv_consistency" = "1"
+L 05/01/2020 - 11:26:37: "sv_mincmdrate" = "66"
+L 05/01/2020 - 11:26:37: "sv_maxcmdrate" = "100"
+L 05/01/2020 - 11:26:37: "sv_maxrate" = "35000"
+L 05/01/2020 - 11:26:37: "sv_minrate" = "25000"
+L 05/01/2020 - 11:26:37: "sv_maxupdaterate" = "100"
+L 05/01/2020 - 11:26:37: "sv_minupdaterate" = "66"
+L 05/01/2020 - 11:26:37: "host_framerate" = "0"
+L 05/01/2020 - 11:26:37: "tv_password" = ""
+L 05/01/2020 - 11:26:37: "tv_relaypassword" = ""
+L 05/01/2020 - 11:26:37: "sv_password" = ""
+L 05/01/2020 - 11:26:37: server cvars end
+L 05/01/2020 - 11:26:37: Started map "de_dust2" (CRC "1413637712")
+L 05/01/2020 - 11:26:37: server_cvar: "sv_accelerate" "5"
+L 05/01/2020 - 11:26:37: server_cvar: "sv_stopspeed" "75"
+L 05/01/2020 - 11:26:37: server_cvar: "sv_minrate" "25000"
+L 05/01/2020 - 11:26:37: server_cvar: "sv_maxrate" "35000"
+L 05/01/2020 - 11:26:37: server_cvar: "sv_minupdaterate" "66"
+L 05/01/2020 - 11:26:37: server_cvar: "sv_maxupdaterate" "100"
+L 05/01/2020 - 11:26:37: server_cvar: "sv_mincmdrate" "66"
+L 05/01/2020 - 11:26:37: server_cvar: "sv_maxcmdrate" "100"
+L 05/01/2020 - 11:26:37: server_cvar: "mp_footsteps" "1"
+L 05/01/2020 - 11:26:37: server_cvar: "mp_fraglimit" "0"
+L 05/01/2020 - 11:26:37: server_cvar: "mp_maxrounds" "0"
+L 05/01/2020 - 11:26:37: server_cvar: "mp_freezetime" "10"
+L 05/01/2020 - 11:26:37: server_cvar: "mp_fadetoblack" "0"
+L 05/01/2020 - 11:26:37: server_cvar: "mp_buytime" "0.25"
+L 05/01/2020 - 11:26:37: server_cvar: "mp_startmoney" "800"
+L 05/01/2020 - 11:26:37: server_cvar: "mp_friendlyfire" "1"
+L 05/01/2020 - 11:26:37: server_cvar: "mp_autoteambalance" "0"
+L 05/01/2020 - 11:26:37: server_cvar: "mp_hostagepenalty" "0"
+L 05/01/2020 - 11:26:37: server_cvar: "mp_roundtime" "1.75"
+L 05/01/2020 - 11:26:37: server_cvar: "mp_forcerespawn" "1"
+L 05/01/2020 - 11:26:37: server_cvar: "mp_forcecamera" "1"
+L 05/01/2020 - 11:26:37: server_cvar: "mp_falldamage" "1"
+L 05/01/2020 - 11:26:37: server_cvar: "mp_flashlight" "0"
+L 05/01/2020 - 11:26:37: server_cvar: "mp_limitteams" "0"
+L 05/01/2020 - 11:26:37: server_cvar: "mp_timelimit" "0"
+L 05/01/2020 - 11:26:37: server_cvar: "mp_playerid" "1"
+L 05/01/2020 - 11:26:37: server_cvar: "mp_c4timer" "35"
+L 05/01/2020 - 11:26:37: server_cvar: "sv_alltalk" "0"
+L 05/01/2020 - 11:26:37: server_cvar: "sv_pausable" "0"
+L 05/01/2020 - 11:26:37: server_cvar: "sv_cheats" "0"
+L 05/01/2020 - 11:26:37: server_cvar: "sv_consistency" "1"
+L 05/01/2020 - 11:26:37: server_cvar: "sv_voiceenable" "1"
+L 05/01/2020 - 11:26:37: server_cvar: "sv_footsteps" "1"
+L 05/01/2020 - 11:26:37: server_cvar: "sv_gravity" "800"
+L 05/01/2020 - 11:26:37: server_cvar: "sv_friction" "4"
+L 05/01/2020 - 11:26:37: server_cvar: "sv_accelerate" "5"
+L 05/01/2020 - 11:26:37: server_cvar: "sv_airaccelerate" "10"
+L 05/01/2020 - 11:26:37: server_cvar: "sv_stopspeed" "75"
+L 05/01/2020 - 11:26:37: server_cvar: "sv_stepsize" "18"
+L 05/01/2020 - 11:26:37: server_cvar: "sv_maxspeed" "320"
+L 05/01/2020 - 11:26:37: server_cvar: "mp_allowspectators" "1"
+L 05/01/2020 - 11:26:37: server_cvar: "sv_specaccelerate" "5"
+L 05/01/2020 - 11:26:37: server_cvar: "sv_specnoclip" "1"
+L 05/01/2020 - 11:26:37: server_cvar: "sv_specspeed" "3"
+L 05/01/2020 - 11:26:37: server_cvar: "mp_roundtime" "1"
+L 05/01/2020 - 11:26:37: server_cvar: "mp_startmoney" "16000"
+L 05/01/2020 - 11:26:37: server_cvar: "mp_buytime" "1"
+L 05/01/2020 - 11:26:37: server_cvar: "mp_freezetime" "3"
+L 05/01/2020 - 11:26:37: World triggered "Round_Start"
+L 05/01/2020 - 11:26:47: "x777xx<2><STEAM_ID_PENDING><>" connected, address "77.34.83.179:27005"
+L 05/01/2020 - 11:26:47: L 05/01/2020 - 11:26:47: eSTEAMATiON STATS Info: <ID STEAM_0:0:1707600965><IP 77.34.83.179> <EMU REVEMU_4TH_GEN> STATUS:ACCEPTED
+L 05/01/2020 - 11:26:47: L 05/01/2020 - 11:26:47: eSTEAMATiON assigned STEAM_0:0:1707600965 ID to this client
+L 05/01/2020 - 11:26:47: "x777xx<2><STEAM_0:0:1707600965><>" STEAM USERID validated
+L 05/01/2020 - 11:26:49: "x777xx<2><STEAM_0:0:1707600965><>" entered the game
+L 05/01/2020 - 11:26:50: World triggered "Round_Start"
+L 05/01/2020 - 11:26:50: "x777xx<2><STEAM_0:0:1707600965><Unassigned>" joined team "TERRORIST"
+L 05/01/2020 - 11:26:50: "x777xx<2><STEAM_0:0:1707600965><TERRORIST>" triggered "Got_The_Bomb"
+L 05/01/2020 - 11:27:01: "x777xx<2><STEAM_0:0:1707600965><TERRORIST>" say "!fs"
+L 05/01/2020 - 11:27:03: "x777xx<2><STEAM_0:0:1707600965><TERRORIST>" say "@"
+L 05/01/2020 - 11:27:05: "x777xx<2><STEAM_0:0:1707600965><TERRORIST>" say "@23"
+L 05/01/2020 - 11:27:20: rcon from "77.34.83.179:60404": command "sm plugins reload warmod.smx"
+L 05/01/2020 - 11:57:29: rcon from "77.34.83.179:60404": command "sm plugins reload warmod.smx"
+L 05/01/2020 - 11:57:34: <WarMod> {"event": "unready_all"}
+L 05/01/2020 - 11:57:34: <WarMod> {"event": "ready_system", "enabled": true}
+L 05/01/2020 - 11:57:34: rcon from "77.34.83.179:60404": command "sm plugins load warmod.smx"
+L 05/01/2020 - 11:57:47: <WarMod> {"event": "player_disconnect", "player": {"name": "x777xx", "userId": 2, "uniqueId": "STEAM_0:0:1707600965", "team": 2}, "reason": "Disconnect by user."}
+L 05/01/2020 - 11:57:47: "x777xx<2><STEAM_0:0:1707600965><TERRORIST>" disconnected (reason "Disconnect by user.")
+L 05/01/2020 - 11:57:47: <WarMod> {"event": "round_stats", "player": {"name": "x777xx", "userId": 2, "uniqueId": "STEAM_0:0:1707600965", "team": 2}, "shots": 0, "hits": 0, "kills": 0, "headshots": 0, "tks": 0, "damage": 0, "deaths": 0, "head": 0, "chest": 0, "stomach": 0, "leftArm": 0, "rightArm": 0, "leftLeg": 0, "rightLeg": 0, "generic": 0}
+L 05/01/2020 - 11:57:47: "x777xx<2><STEAM_0:0:1707600965><TERRORIST>" triggered "Dropped_The_Bomb"
+L 05/01/2020 - 11:57:47: <WarMod> {"event": "bomb_dropped", "player": {"name": "x777xx", "userId": 2, "uniqueId": "STEAM_0:0:1707600965", "team": 2, "origin": [1389.94, 2441.53, 107.38], "velocity": [0.00, 0.00, 0.00], "view": [0.24, 76.81, 0.00], "health": 100, "armor": 0, "helmet": 0}}
+L 05/01/2020 - 11:57:47: <WarMod> {"event": "player_team", "player": {"name": "x777xx", "userId": 2, "uniqueId": "STEAM_0:0:1707600965", "team": 2}, "oldTeam": 2, "newTeam": 0}
+L 05/01/2020 - 11:57:47: World triggered "Round_Draw" (CT "0") (T "0")
+L 05/01/2020 - 11:57:47: Team "CT" scored "0" with "0" players
+L 05/01/2020 - 11:57:47: Team "TERRORIST" scored "0" with "0" players
+L 05/01/2020 - 11:57:47: World triggered "Round_End"
+L 05/01/2020 - 11:57:47: <WarMod> {"event": "round_end", "winner": 1, "reason": 10}
+L 05/01/2020 - 11:57:47: "x777xx<3><STEAM_ID_PENDING><>" connected, address "77.34.83.179:27005"
+L 05/01/2020 - 11:57:47: L 05/01/2020 - 11:57:47: eSTEAMATiON STATS Info: <ID STEAM_0:0:1707600965><IP 77.34.83.179> <EMU REVEMU_4TH_GEN> STATUS:ACCEPTED
+L 05/01/2020 - 11:57:47: L 05/01/2020 - 11:57:47: eSTEAMATiON assigned STEAM_0:0:1707600965 ID to this client
+L 05/01/2020 - 11:57:47: "x777xx<3><STEAM_0:0:1707600965><>" STEAM USERID validated
+L 05/01/2020 - 11:57:49: <WarMod> {"event": "player_connect", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 0}, "address": "77.34.83.179", "country": "RU"}
+L 05/01/2020 - 11:57:49: "x777xx<3><STEAM_0:0:1707600965><>" entered the game
+L 05/01/2020 - 11:57:50: "x777xx<3><STEAM_0:0:1707600965><Unassigned>" joined team "CT"
+L 05/01/2020 - 11:57:50: <WarMod> {"event": "player_team", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 0}, "oldTeam": 0, "newTeam": 3}
+L 05/01/2020 - 11:57:52: <WarMod> {"event": "item_pickup", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 3, "origin": [448.00, 2464.00, -24.00], "velocity": [0.00, 0.00, 0.00], "view": [0.00, 255.00, 0.00], "health": 100, "armor": 0, "helmet": 0}, "item": "knife"}
+L 05/01/2020 - 11:57:52: <WarMod> {"event": "item_pickup", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 3, "origin": [448.00, 2464.00, -24.00], "velocity": [0.00, 0.00, 0.00], "view": [0.00, 255.00, 0.00], "health": 100, "armor": 0, "helmet": 0}, "item": "usp"}
+L 05/01/2020 - 11:57:52: <WarMod> {"event": "round_start", "freezeTime": 3}
+L 05/01/2020 - 11:57:55: World triggered "Round_Start"
+L 05/01/2020 - 11:57:55: <WarMod> {"event": "round_freeze_end"}
+L 05/01/2020 - 11:58:00: <WarMod> {"event": "player_ready", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 3}}
+L 05/01/2020 - 11:58:00: "x777xx<3><STEAM_0:0:1707600965><CT>" say "!r"
+L 05/01/2020 - 11:58:00: <WarMod> {"event": "player_say", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 3}, "message": "!r", "teamOnly": 0}
+L 05/01/2020 - 12:02:14: <WarMod> {"event": "round_stats", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 3}, "shots": 0, "hits": 0, "kills": 0, "headshots": 0, "tks": 0, "damage": 0, "deaths": 0, "head": 0, "chest": 0, "stomach": 0, "leftArm": 0, "rightArm": 0, "leftLeg": 0, "rightLeg": 0, "generic": 0}
+L 05/01/2020 - 12:02:14: [META] Loaded 0 plugins (2 already loaded)
+L 05/01/2020 - 12:02:14: "x777xx<3><STEAM_0:0:1707600965><>" disconnected (reason "Server shutting down")
+L 05/01/2020 - 12:02:14: server_message: "quit"
+L 05/01/2020 - 12:02:14: Log file closed

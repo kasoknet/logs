@@ -1,0 +1,127 @@
+L 05/01/2020 - 14:52:50: Log file started (file "logs/L0501043.log") (game "/host/68019/43811/cstrike") (version "4100")
+L 05/01/2020 - 14:52:50: server_cvar: "tv_delay" "90"
+L 05/01/2020 - 14:52:50: World triggered "Round_Start"
+L 05/01/2020 - 14:52:50: <WarMod> {"event": "round_freeze_end"}
+L 05/01/2020 - 14:52:50: <WarMod> {"event": "round_start", "freezeTime": 3}
+L 05/01/2020 - 14:53:44: "steal.pro*True*Star<2><STEAM_ID_PENDING><>" connected, address "185.57.28.235:27005"
+L 05/01/2020 - 14:53:44: L 05/01/2020 - 14:53:44: eSTEAMATiON STATS Info: <ID STEAM_0:0:658514509><IP 185.57.28.235> <EMU REVEMU_3RD_GEN> STATUS:ACCEPTED
+L 05/01/2020 - 14:53:44: L 05/01/2020 - 14:53:44: eSTEAMATiON assigned STEAM_0:0:658514509 ID to this client
+L 05/01/2020 - 14:53:44: "steal.pro*True*Star<2><STEAM_0:0:658514509><>" STEAM USERID validated
+L 05/01/2020 - 14:53:47: World triggered "Round_Start"
+L 05/01/2020 - 14:53:47: <WarMod> {"event": "round_freeze_end"}
+L 05/01/2020 - 14:53:48: <WarMod> {"event": "player_connect", "player": {"name": "steal.pro*True*Star", "userId": 2, "uniqueId": "STEAM_0:0:658514509", "team": 0}, "address": "185.57.28.235", "country": "RU"}
+L 05/01/2020 - 14:53:48: "steal.pro*True*Star<2><STEAM_0:0:658514509><>" entered the game
+L 05/01/2020 - 14:53:50: "steal.pro*True*Star<2><STEAM_0:0:658514509><Unassigned>" joined team "TERRORIST"
+L 05/01/2020 - 14:53:50: <WarMod> {"event": "player_team", "player": {"name": "steal.pro*True*Star", "userId": 2, "uniqueId": "STEAM_0:0:658514509", "team": 0}, "oldTeam": 0, "newTeam": 2}
+L 05/01/2020 - 14:53:50: <WarMod> {"event": "item_pickup", "player": {"name": "steal.pro*True*Star", "userId": 2, "uniqueId": "STEAM_0:0:658514509", "team": 2, "origin": [-832.00, -760.00, 240.00], "velocity": [0.00, 0.00, 0.00], "view": [0.00, 159.00, 0.00], "health": 100, "armor": 0, "helmet": 0}, "item": "knife"}
+L 05/01/2020 - 14:53:50: <WarMod> {"event": "item_pickup", "player": {"name": "steal.pro*True*Star", "userId": 2, "uniqueId": "STEAM_0:0:658514509", "team": 2, "origin": [-832.00, -760.00, 240.00], "velocity": [0.00, 0.00, 0.00], "view": [0.00, 159.00, 0.00], "health": 100, "armor": 0, "helmet": 0}, "item": "glock"}
+L 05/01/2020 - 14:53:50: <WarMod> {"event": "item_pickup", "player": {"name": "steal.pro*True*Star", "userId": 2, "uniqueId": "STEAM_0:0:658514509", "team": 2, "origin": [-832.00, -760.00, 240.00], "velocity": [0.00, 0.00, 0.00], "view": [0.00, 159.00, 0.00], "health": 100, "armor": 0, "helmet": 0}, "item": "c4"}
+L 05/01/2020 - 14:53:50: "steal.pro*True*Star<2><STEAM_0:0:658514509><TERRORIST>" triggered "Got_The_Bomb"
+L 05/01/2020 - 14:53:50: <WarMod> {"event": "bomb_pickup", "player": {"name": "steal.pro*True*Star", "userId": 2, "uniqueId": "STEAM_0:0:658514509", "team": 2, "origin": [-832.00, -760.00, 240.00], "velocity": [0.00, 0.00, 0.00], "view": [0.00, 159.00, 0.00], "health": 100, "armor": 0, "helmet": 0}}
+L 05/01/2020 - 14:53:53: <WarMod> {"event": "item_pickup", "player": {"name": "steal.pro*True*Star", "userId": 2, "uniqueId": "STEAM_0:0:658514509", "team": 2, "origin": [-832.00, -760.00, 195.55], "velocity": [0.00, 0.00, 0.00], "view": [0.00, 158.99, 0.00], "health": 100, "armor": 0, "helmet": 0}, "item": "awp"}
+L 05/01/2020 - 14:53:54: <WarMod> {"event": "item_pickup", "player": {"name": "steal.pro*True*Star", "userId": 2, "uniqueId": "STEAM_0:0:658514509", "team": 2, "origin": [-832.00, -760.00, 195.55], "velocity": [0.00, 0.00, 0.00], "view": [0.00, 158.99, 0.00], "health": 100, "armor": 0, "helmet": 0}, "item": "vesthelm"}
+L 05/01/2020 - 14:53:55: <WarMod> {"event": "item_pickup", "player": {"name": "steal.pro*True*Star", "userId": 2, "uniqueId": "STEAM_0:0:658514509", "team": 2, "origin": [-832.00, -760.00, 195.55], "velocity": [0.00, 0.00, 0.00], "view": [0.00, 158.99, 0.00], "health": 100, "armor": 100, "helmet": 1}, "item": "deagle"}
+L 05/01/2020 - 14:54:47: "steal.pro*True*Star<2><STEAM_0:0:658514509><TERRORIST>" say_team "!admin"
+L 05/01/2020 - 14:56:00: <WarMod> {"event": "player_disconnect", "player": {"name": "steal.pro*True*Star", "userId": 2, "uniqueId": "STEAM_0:0:658514509", "team": 2}, "reason": "Disconnect by user."}
+L 05/01/2020 - 14:56:00: "steal.pro*True*Star<2><STEAM_0:0:658514509><TERRORIST>" disconnected (reason "Disconnect by user.")
+L 05/01/2020 - 14:56:00: <WarMod> {"event": "weapon_stats", "player": {"name": "steal.pro*True*Star", "userId": 2, "uniqueId": "STEAM_0:0:658514509", "team": 2}, "weapon": "awp", "shots": 5, "hits": 0, "kills": 0, "headshots": 0, "tks": 0, "damage": 0, "deaths": 0, "head": 0, "chest": 0, "stomach": 0, "leftArm": 0, "rightArm": 0, "leftLeg": 0, "rightLeg": 0, "generic": 0}
+L 05/01/2020 - 14:56:00: <WarMod> {"event": "weapon_stats", "player": {"name": "steal.pro*True*Star", "userId": 2, "uniqueId": "STEAM_0:0:658514509", "team": 2}, "weapon": "deagle", "shots": 1, "hits": 0, "kills": 0, "headshots": 0, "tks": 0, "damage": 0, "deaths": 0, "head": 0, "chest": 0, "stomach": 0, "leftArm": 0, "rightArm": 0, "leftLeg": 0, "rightLeg": 0, "generic": 0}
+L 05/01/2020 - 14:56:00: <WarMod> {"event": "weapon_stats", "player": {"name": "steal.pro*True*Star", "userId": 2, "uniqueId": "STEAM_0:0:658514509", "team": 2}, "weapon": "knife", "shots": 1, "hits": 0, "kills": 0, "headshots": 0, "tks": 0, "damage": 0, "deaths": 0, "head": 0, "chest": 0, "stomach": 0, "leftArm": 0, "rightArm": 0, "leftLeg": 0, "rightLeg": 0, "generic": 0}
+L 05/01/2020 - 14:56:00: <WarMod> {"event": "round_stats", "player": {"name": "steal.pro*True*Star", "userId": 2, "uniqueId": "STEAM_0:0:658514509", "team": 2}, "shots": 7, "hits": 0, "kills": 0, "headshots": 0, "tks": 0, "damage": 0, "deaths": 0, "head": 0, "chest": 0, "stomach": 0, "leftArm": 0, "rightArm": 0, "leftLeg": 0, "rightLeg": 0, "generic": 0}
+L 05/01/2020 - 14:56:00: "steal.pro*True*Star<2><STEAM_0:0:658514509><TERRORIST>" triggered "Dropped_The_Bomb"
+L 05/01/2020 - 14:56:00: <WarMod> {"event": "bomb_dropped", "player": {"name": "steal.pro*True*Star", "userId": 2, "uniqueId": "STEAM_0:0:658514509", "team": 2, "origin": [-463.25, 1960.08, -63.03], "velocity": [0.00, 0.00, 0.00], "view": [1.47, 272.14, 0.00], "health": 100, "armor": 100, "helmet": 1}}
+L 05/01/2020 - 14:56:00: <WarMod> {"event": "player_team", "player": {"name": "steal.pro*True*Star", "userId": 2, "uniqueId": "STEAM_0:0:658514509", "team": 2}, "oldTeam": 2, "newTeam": 0}
+L 05/01/2020 - 14:56:00: World triggered "Round_Draw" (CT "0") (T "0")
+L 05/01/2020 - 14:56:00: Team "CT" scored "0" with "0" players
+L 05/01/2020 - 14:56:00: Team "TERRORIST" scored "0" with "0" players
+L 05/01/2020 - 14:56:00: World triggered "Round_End"
+L 05/01/2020 - 14:56:00: <WarMod> {"event": "round_end", "winner": 1, "reason": 10}
+L 05/01/2020 - 14:56:05: <WarMod> {"event": "round_start", "freezeTime": 3}
+L 05/01/2020 - 14:56:08: World triggered "Round_Start"
+L 05/01/2020 - 14:56:08: <WarMod> {"event": "round_freeze_end"}
+L 05/01/2020 - 15:28:41: "x777xx<3><STEAM_ID_PENDING><>" connected, address "77.34.83.179:27005"
+L 05/01/2020 - 15:28:41: L 05/01/2020 - 15:28:41: eSTEAMATiON STATS Info: <ID STEAM_0:0:1707600965><IP 77.34.83.179> <EMU REVEMU_4TH_GEN> STATUS:ACCEPTED
+L 05/01/2020 - 15:28:41: L 05/01/2020 - 15:28:41: eSTEAMATiON assigned STEAM_0:0:1707600965 ID to this client
+L 05/01/2020 - 15:28:41: "x777xx<3><STEAM_0:0:1707600965><>" STEAM USERID validated
+L 05/01/2020 - 15:28:43: <WarMod> {"event": "player_connect", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 0}, "address": "77.34.83.179", "country": "RU"}
+L 05/01/2020 - 15:28:43: "x777xx<3><STEAM_0:0:1707600965><>" entered the game
+L 05/01/2020 - 15:28:44: "x777xx<3><STEAM_0:0:1707600965><Unassigned>" joined team "TERRORIST"
+L 05/01/2020 - 15:28:44: <WarMod> {"event": "player_team", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 0}, "oldTeam": 0, "newTeam": 2}
+L 05/01/2020 - 15:28:44: <WarMod> {"event": "item_pickup", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 2, "origin": [-832.00, -856.00, 240.00], "velocity": [0.00, 0.00, 0.00], "view": [0.00, 10.00, 0.00], "health": 100, "armor": 0, "helmet": 0}, "item": "knife"}
+L 05/01/2020 - 15:28:44: <WarMod> {"event": "item_pickup", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 2, "origin": [-832.00, -856.00, 240.00], "velocity": [0.00, 0.00, 0.00], "view": [0.00, 10.00, 0.00], "health": 100, "armor": 0, "helmet": 0}, "item": "glock"}
+L 05/01/2020 - 15:28:44: <WarMod> {"event": "item_pickup", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 2, "origin": [-832.00, -856.00, 240.00], "velocity": [0.00, 0.00, 0.00], "view": [0.00, 10.00, 0.00], "health": 100, "armor": 0, "helmet": 0}, "item": "c4"}
+L 05/01/2020 - 15:28:44: "x777xx<3><STEAM_0:0:1707600965><TERRORIST>" triggered "Got_The_Bomb"
+L 05/01/2020 - 15:28:44: <WarMod> {"event": "bomb_pickup", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 2, "origin": [-832.00, -856.00, 240.00], "velocity": [0.00, 0.00, 0.00], "view": [0.00, 10.00, 0.00], "health": 100, "armor": 0, "helmet": 0}}
+L 05/01/2020 - 15:30:39: rcon from "77.34.83.179:33977": command "sm plugins reload smac_autotrigger.smx"
+L 05/01/2020 - 15:31:29: "x777xx<3><STEAM_0:0:1707600965><TERRORIST>" triggered "Dropped_The_Bomb"
+L 05/01/2020 - 15:31:29: <WarMod> {"event": "bomb_dropped", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 2, "origin": [761.16, 939.05, 66.67], "velocity": [0.00, 0.00, 0.00], "view": [17.17, 202.53, 0.00], "health": 100, "armor": 0, "helmet": 0}}
+L 05/01/2020 - 15:31:29: "x777xx<3><STEAM_0:0:1707600965><TERRORIST>" joined team "CT"
+L 05/01/2020 - 15:31:29: <WarMod> {"event": "player_team", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 2}, "oldTeam": 2, "newTeam": 3}
+L 05/01/2020 - 15:31:29: "x777xx<3><STEAM_0:0:1707600965><CT>" committed suicide with "world"
+L 05/01/2020 - 15:31:29: <WarMod> {"event": "player_suicide", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 3, "origin": [761.16, 939.05, 66.67], "velocity": [0.00, 0.00, 0.00], "view": [17.17, 202.53, 0.00], "health": 1, "armor": 0, "helmet": 0}, "weapon": "world"}
+L 05/01/2020 - 15:31:29: World triggered "Round_Draw" (CT "0") (T "0")
+L 05/01/2020 - 15:31:29: Team "CT" scored "0" with "1" players
+L 05/01/2020 - 15:31:29: Team "TERRORIST" scored "0" with "0" players
+L 05/01/2020 - 15:31:29: World triggered "Round_End"
+L 05/01/2020 - 15:31:29: <WarMod> {"event": "weapon_stats", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 3}, "weapon": "glock", "shots": 60, "hits": 0, "kills": 0, "headshots": 0, "tks": 0, "damage": 0, "deaths": 0, "head": 0, "chest": 0, "stomach": 0, "leftArm": 0, "rightArm": 0, "leftLeg": 0, "rightLeg": 0, "generic": 0}
+L 05/01/2020 - 15:31:29: <WarMod> {"event": "round_stats", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 3}, "shots": 60, "hits": 0, "kills": 0, "headshots": 0, "tks": 0, "damage": 0, "deaths": 0, "head": 0, "chest": 0, "stomach": 0, "leftArm": 0, "rightArm": 0, "leftLeg": 0, "rightLeg": 0, "generic": 0}
+L 05/01/2020 - 15:31:29: <WarMod> {"event": "player_clutch", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 3}, "versus": 0, "frags": 0, "bombPlanted": 0, "won": 0}
+L 05/01/2020 - 15:31:29: <WarMod> {"event": "round_end", "winner": 1, "reason": 10}
+L 05/01/2020 - 15:31:34: <WarMod> {"event": "item_pickup", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 3, "origin": [448.00, 2464.00, -24.00], "velocity": [0.00, 0.00, 0.00], "view": [0.00, 255.00, 0.00], "health": 100, "armor": 0, "helmet": 0}, "item": "knife"}
+L 05/01/2020 - 15:31:34: <WarMod> {"event": "item_pickup", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 3, "origin": [448.00, 2464.00, -24.00], "velocity": [0.00, 0.00, 0.00], "view": [0.00, 255.00, 0.00], "health": 100, "armor": 0, "helmet": 0}, "item": "usp"}
+L 05/01/2020 - 15:31:34: <WarMod> {"event": "round_start", "freezeTime": 3}
+L 05/01/2020 - 15:31:37: World triggered "Round_Start"
+L 05/01/2020 - 15:31:37: <WarMod> {"event": "round_freeze_end"}
+L 05/01/2020 - 15:31:40: <WarMod> {"event": "item_pickup", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 3, "origin": [448.00, 2464.00, -50.53], "velocity": [0.00, 0.00, 0.00], "view": [1.79, 259.64, 0.00], "health": 100, "armor": 0, "helmet": 0}, "item": "deagle"}
+L 05/01/2020 - 15:31:40: <WarMod> {"event": "item_pickup", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 3, "origin": [448.00, 2464.00, -50.53], "velocity": [0.00, 0.00, 0.00], "view": [1.79, 259.64, 0.00], "health": 100, "armor": 0, "helmet": 0}, "item": "m4a1"}
+L 05/01/2020 - 15:31:40: <WarMod> {"event": "item_pickup", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 3, "origin": [448.00, 2464.00, -50.53], "velocity": [0.00, 0.00, 0.00], "view": [1.79, 259.64, 0.00], "health": 100, "armor": 0, "helmet": 0}, "item": "defuser"}
+L 05/01/2020 - 15:31:40: <WarMod> {"event": "item_pickup", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 3, "origin": [448.00, 2464.00, -50.53], "velocity": [0.00, 0.00, 0.00], "view": [1.79, 259.64, 0.00], "health": 100, "armor": 0, "helmet": 0}, "item": "vesthelm"}
+L 05/01/2020 - 15:31:54: <WarMod> {"event": "item_pickup", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 3, "origin": [469.92, 2237.53, -61.17], "velocity": [-244.17, 54.36, 0.00], "view": [13.88, 165.40, 0.00], "health": 100, "armor": 100, "helmet": 1}, "item": "m4a1"}
+L 05/01/2020 - 15:32:02: <WarMod> {"event": "player_disconnect", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 3}, "reason": "Disconnect by user."}
+L 05/01/2020 - 15:32:02: "x777xx<3><STEAM_0:0:1707600965><CT>" disconnected (reason "Disconnect by user.")
+L 05/01/2020 - 15:32:02: <WarMod> {"event": "weapon_stats", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 3}, "weapon": "m4a1", "shots": 22, "hits": 0, "kills": 0, "headshots": 0, "tks": 0, "damage": 0, "deaths": 0, "head": 0, "chest": 0, "stomach": 0, "leftArm": 0, "rightArm": 0, "leftLeg": 0, "rightLeg": 0, "generic": 0}
+L 05/01/2020 - 15:32:02: <WarMod> {"event": "weapon_stats", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 3}, "weapon": "deagle", "shots": 14, "hits": 0, "kills": 0, "headshots": 0, "tks": 0, "damage": 0, "deaths": 0, "head": 0, "chest": 0, "stomach": 0, "leftArm": 0, "rightArm": 0, "leftLeg": 0, "rightLeg": 0, "generic": 0}
+L 05/01/2020 - 15:32:02: <WarMod> {"event": "weapon_stats", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 3}, "weapon": "usp", "shots": 12, "hits": 0, "kills": 0, "headshots": 0, "tks": 0, "damage": 0, "deaths": 0, "head": 0, "chest": 0, "stomach": 0, "leftArm": 0, "rightArm": 0, "leftLeg": 0, "rightLeg": 0, "generic": 0}
+L 05/01/2020 - 15:32:02: <WarMod> {"event": "round_stats", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 3}, "shots": 48, "hits": 0, "kills": 0, "headshots": 0, "tks": 0, "damage": 0, "deaths": 0, "head": 0, "chest": 0, "stomach": 0, "leftArm": 0, "rightArm": 0, "leftLeg": 0, "rightLeg": 0, "generic": 0}
+L 05/01/2020 - 15:32:02: <WarMod> {"event": "player_team", "player": {"name": "x777xx", "userId": 3, "uniqueId": "STEAM_0:0:1707600965", "team": 3}, "oldTeam": 3, "newTeam": 0}
+L 05/01/2020 - 15:32:02: World triggered "Round_Draw" (CT "0") (T "0")
+L 05/01/2020 - 15:32:02: Team "CT" scored "0" with "0" players
+L 05/01/2020 - 15:32:02: Team "TERRORIST" scored "0" with "0" players
+L 05/01/2020 - 15:32:02: World triggered "Round_End"
+L 05/01/2020 - 15:32:02: <WarMod> {"event": "round_end", "winner": 1, "reason": 10}
+L 05/01/2020 - 15:32:07: <WarMod> {"event": "round_start", "freezeTime": 3}
+L 05/01/2020 - 15:32:10: World triggered "Round_Start"
+L 05/01/2020 - 15:32:10: <WarMod> {"event": "round_freeze_end"}
+L 05/01/2020 - 16:08:50: "x777xx<4><STEAM_ID_PENDING><>" connected, address "77.34.83.179:27005"
+L 05/01/2020 - 16:08:50: L 05/01/2020 - 16:08:50: eSTEAMATiON STATS Info: <ID STEAM_0:0:1707600965><IP 77.34.83.179> <EMU REVEMU_4TH_GEN> STATUS:ACCEPTED
+L 05/01/2020 - 16:08:50: L 05/01/2020 - 16:08:50: eSTEAMATiON assigned STEAM_0:0:1707600965 ID to this client
+L 05/01/2020 - 16:08:50: "x777xx<4><STEAM_0:0:1707600965><>" STEAM USERID validated
+L 05/01/2020 - 16:08:55: <WarMod> {"event": "player_connect", "player": {"name": "x777xx", "userId": 4, "uniqueId": "STEAM_0:0:1707600965", "team": 0}, "address": "77.34.83.179", "country": "RU"}
+L 05/01/2020 - 16:08:55: "x777xx<4><STEAM_0:0:1707600965><>" entered the game
+L 05/01/2020 - 16:08:55: <WarMod> {"event": "player_disconnect", "player": {"name": "x777xx", "userId": 4, "uniqueId": "STEAM_0:0:1707600965", "team": 0}, "reason": "Your name is reserved by SourceMod; set your password to use it."}
+L 05/01/2020 - 16:08:55: "x777xx<4><STEAM_0:0:1707600965><Unassigned>" disconnected (reason "Your name is reserved by SourceMod; set your password to use it.")
+L 05/01/2020 - 16:08:55: World triggered "Round_Draw" (CT "0") (T "0")
+L 05/01/2020 - 16:08:55: Team "CT" scored "0" with "0" players
+L 05/01/2020 - 16:08:55: Team "TERRORIST" scored "0" with "0" players
+L 05/01/2020 - 16:08:55: World triggered "Round_End"
+L 05/01/2020 - 16:08:55: <WarMod> {"event": "round_end", "winner": 1, "reason": 10}
+L 05/01/2020 - 16:09:00: <WarMod> {"event": "round_start", "freezeTime": 3}
+L 05/01/2020 - 16:09:03: World triggered "Round_Start"
+L 05/01/2020 - 16:09:03: <WarMod> {"event": "round_freeze_end"}
+L 05/01/2020 - 16:09:10: "x777xx<5><STEAM_ID_PENDING><>" connected, address "77.34.83.179:27005"
+L 05/01/2020 - 16:09:10: L 05/01/2020 - 16:09:10: eSTEAMATiON STATS Info: <ID STEAM_0:0:1707600965><IP 77.34.83.179> <EMU REVEMU_4TH_GEN> STATUS:ACCEPTED
+L 05/01/2020 - 16:09:10: L 05/01/2020 - 16:09:10: eSTEAMATiON assigned STEAM_0:0:1707600965 ID to this client
+L 05/01/2020 - 16:09:10: "x777xx<5><STEAM_0:0:1707600965><>" STEAM USERID validated
+L 05/01/2020 - 16:09:10: <WarMod> {"event": "player_disconnect", "player": null, "reason": "Disconnect by user."}
+L 05/01/2020 - 16:09:10: "x777xx<5><STEAM_0:0:1707600965><>" disconnected (reason "Disconnect by user.")
+L 05/01/2020 - 16:09:14: "x777xx<6><STEAM_ID_PENDING><>" connected, address "77.34.83.179:27005"
+L 05/01/2020 - 16:09:14: L 05/01/2020 - 16:09:14: eSTEAMATiON STATS Info: <ID STEAM_0:0:1707600965><IP 77.34.83.179> <EMU REVEMU_4TH_GEN> STATUS:ACCEPTED
+L 05/01/2020 - 16:09:14: L 05/01/2020 - 16:09:14: eSTEAMATiON assigned STEAM_0:0:1707600965 ID to this client
+L 05/01/2020 - 16:09:14: "x777xx<6><STEAM_0:0:1707600965><>" STEAM USERID validated
+L 05/01/2020 - 16:09:16: <WarMod> {"event": "player_connect", "player": {"name": "x777xx", "userId": 6, "uniqueId": "STEAM_0:0:1707600965", "team": 0}, "address": "77.34.83.179", "country": "RU"}
+L 05/01/2020 - 16:09:16: "x777xx<6><STEAM_0:0:1707600965><>" entered the game
+L 05/01/2020 - 16:09:17: "x777xx<6><STEAM_0:0:1707600965><Unassigned>" joined team "TERRORIST"
+L 05/01/2020 - 16:09:17: <WarMod> {"event": "player_team", "player": {"name": "x777xx", "userId": 6, "uniqueId": "STEAM_0:0:1707600965", "team": 0}, "oldTeam": 0, "newTeam": 2}
+L 05/01/2020 - 16:09:18: <WarMod> {"event": "item_pickup", "player": {"name": "x777xx", "userId": 6, "uniqueId": "STEAM_0:0:1707600965", "team": 2, "origin": [-736.00, -920.00, 240.00], "velocity": [0.00, 0.00, 0.00], "view": [0.00, 356.00, 0.00], "health": 100, "armor": 0, "helmet": 0}, "item": "knife"}
+L 05/01/2020 - 16:09:18: <WarMod> {"event": "item_pickup", "player": {"name": "x777xx", "userId": 6, "uniqueId": "STEAM_0:0:1707600965", "team": 2, "origin": [-736.00, -920.00, 240.00], "velocity": [0.00, 0.00, 0.00], "view": [0.00, 356.00, 0.00], "health": 100, "armor": 0, "helmet": 0}, "item": "glock"}
+L 05/01/2020 - 16:09:18: <WarMod> {"event": "item_pickup", "player": {"name": "x777xx", "userId": 6, "uniqueId": "STEAM_0:0:1707600965", "team": 2, "or

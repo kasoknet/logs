@@ -1,0 +1,226 @@
+L 05/01/2020 - 12:51:52: Log file started (file "logs/L0501015.log") (game "/host/68019/43811/cstrike") (version "4100")
+L 05/01/2020 - 12:51:52: Loading map "de_dust2"
+L 05/01/2020 - 12:51:52: server cvars start
+L 05/01/2020 - 12:51:52: "stripper_version" = "1.2.2"
+L 05/01/2020 - 12:51:52: "sourcemod_version" = "1.9.0.6224"
+L 05/01/2020 - 12:51:52: "sm_nextmap" = ""
+L 05/01/2020 - 12:51:52: "metamod_version" = "1.10.0V"
+L 05/01/2020 - 12:51:52: "zb_version" = "4.4"
+L 05/01/2020 - 12:51:52: "zb_status" = "1"
+L 05/01/2020 - 12:51:52: "mp_hostagepenalty" = "13"
+L 05/01/2020 - 12:51:52: "mp_buytime" = "1.5"
+L 05/01/2020 - 12:51:52: "mp_playerid" = "0"
+L 05/01/2020 - 12:51:52: "mp_fadetoblack" = "0"
+L 05/01/2020 - 12:51:52: "nextlevel" = ""
+L 05/01/2020 - 12:51:52: "mp_autoteambalance" = "1"
+L 05/01/2020 - 12:51:52: "mp_maxrounds" = "0"
+L 05/01/2020 - 12:51:52: "mp_startmoney" = "800"
+L 05/01/2020 - 12:51:52: "mp_roundtime" = "5"
+L 05/01/2020 - 12:51:52: "mp_freezetime" = "6"
+L 05/01/2020 - 12:51:52: "mp_c4timer" = "45"
+L 05/01/2020 - 12:51:52: "mp_limitteams" = "2"
+L 05/01/2020 - 12:51:52: "sv_alltalk" = "0"
+L 05/01/2020 - 12:51:52: "mp_timelimit" = "0"
+L 05/01/2020 - 12:51:52: "sv_gravity" = "800"
+L 05/01/2020 - 12:51:52: "sv_stopspeed" = "100"
+L 05/01/2020 - 12:51:52: "sv_noclipaccelerate" = "5"
+L 05/01/2020 - 12:51:52: "sv_noclipspeed" = "5"
+L 05/01/2020 - 12:51:52: "sv_specaccelerate" = "5"
+L 05/01/2020 - 12:51:52: "sv_specspeed" = "3"
+L 05/01/2020 - 12:51:52: "sv_specnoclip" = "1"
+L 05/01/2020 - 12:51:52: "sv_maxspeed" = "320"
+L 05/01/2020 - 12:51:52: "sv_accelerate" = "10"
+L 05/01/2020 - 12:51:52: "sv_airaccelerate" = "10"
+L 05/01/2020 - 12:51:52: "sv_wateraccelerate" = "10"
+L 05/01/2020 - 12:51:52: "sv_waterfriction" = "1"
+L 05/01/2020 - 12:51:52: "sv_footsteps" = "1"
+L 05/01/2020 - 12:51:52: "sv_rollspeed" = "200"
+L 05/01/2020 - 12:51:52: "sv_rollangle" = "0"
+L 05/01/2020 - 12:51:52: "sv_friction" = "4"
+L 05/01/2020 - 12:51:52: "sv_bounce" = "0"
+L 05/01/2020 - 12:51:52: "sv_stepsize" = "18"
+L 05/01/2020 - 12:51:52: "mp_forcecamera" = "0"
+L 05/01/2020 - 12:51:52: "mp_allowspectators" = "1.0"
+L 05/01/2020 - 12:51:52: "mp_friendlyfire" = "0"
+L 05/01/2020 - 12:51:52: "sv_unlag" = "1"
+L 05/01/2020 - 12:51:52: "sv_maxunlag" = "1.0"
+L 05/01/2020 - 12:51:52: "tv_delay" = "90"
+L 05/01/2020 - 12:51:52: "mp_teamplay" = "0"
+L 05/01/2020 - 12:51:52: "mp_fraglimit" = "0"
+L 05/01/2020 - 12:51:52: "mp_falldamage" = "0"
+L 05/01/2020 - 12:51:52: "mp_weaponstay" = "0"
+L 05/01/2020 - 12:51:52: "mp_forcerespawn" = "1"
+L 05/01/2020 - 12:51:52: "mp_footsteps" = "1"
+L 05/01/2020 - 12:51:52: "mp_flashlight" = "0"
+L 05/01/2020 - 12:51:52: "mp_autocrosshair" = "1"
+L 05/01/2020 - 12:51:52: "decalfrequency" = "10"
+L 05/01/2020 - 12:51:52: "mp_allowNPCs" = "1"
+L 05/01/2020 - 12:51:52: "sv_cheats" = "0"
+L 05/01/2020 - 12:51:52: "sv_pausable" = "0"
+L 05/01/2020 - 12:51:52: "sv_contact" = "www.forum.sourcetm.com"
+L 05/01/2020 - 12:51:52: "sv_voiceenable" = "1"
+L 05/01/2020 - 12:51:52: "sv_consistency" = "1"
+L 05/01/2020 - 12:51:52: "sv_mincmdrate" = "0"
+L 05/01/2020 - 12:51:52: "sv_maxcmdrate" = "40"
+L 05/01/2020 - 12:51:52: "sv_maxrate" = "0"
+L 05/01/2020 - 12:51:52: "sv_minrate" = "3500"
+L 05/01/2020 - 12:51:52: "sv_maxupdaterate" = "60"
+L 05/01/2020 - 12:51:52: "sv_minupdaterate" = "10"
+L 05/01/2020 - 12:51:52: "host_framerate" = "0"
+L 05/01/2020 - 12:51:52: "tv_password" = ""
+L 05/01/2020 - 12:51:52: "tv_relaypassword" = ""
+L 05/01/2020 - 12:51:52: "sv_password" = ""
+L 05/01/2020 - 12:51:52: server cvars end
+L 05/01/2020 - 12:51:52: Started map "de_dust2" (CRC "1413637712")
+L 05/01/2020 - 12:51:54: server_cvar: "sv_accelerate" "5"
+L 05/01/2020 - 12:51:54: server_cvar: "sv_stopspeed" "75"
+L 05/01/2020 - 12:51:54: <WarMod> {"event": "unready_all"}
+L 05/01/2020 - 12:51:54: <WarMod> {"event": "ready_system", "enabled": true}
+L 05/01/2020 - 12:51:54: 
+eSTEAMATiON STEAM2 System is starting-up.
+Version : 2.0
+Type: Release Candidate 8 UPDATE 1
+Release Date: 24 November 2010  11:30 AM
+Author:ViTYAN
+L 05/01/2020 - 12:51:54: 
+eSTEAMATiON STEAM2 initialization and preconfiguring process has been started...
+L 05/01/2020 - 12:51:54: eSTEAMATiON loaded legit STEAM2 library 
+L 05/01/2020 - 12:51:54: 
+eSTEAMATiON STEAM2 v2.0 Release Candidate 8 UPDATE 1
+Release Date:24 November 2010  11:30 AM
+Author:ViTYAN
+has been successfully loaded.
+L 05/01/2020 - 12:51:54: 
+eSTEAMATiON STEAM2 configuration has been successfully determined(Default config).
+L 05/01/2020 - 12:51:54: eSTEAMATiON configuration is as following:
+
+L 05/01/2020 - 12:51:54: [eSTEAMATiON SECURITY POLICY]
+L 05/01/2020 - 12:51:54: SteamEmu Clients: ACCEPT
+L 05/01/2020 - 12:51:54: LEGACY SteamEmu Clients: DROP
+L 05/01/2020 - 12:51:54: eSTEAMATiON SemiSteam Native Clients: ACCEPT
+L 05/01/2020 - 12:51:54: eSTEAMATiON HL1-WON Clients: ACCEPT
+L 05/01/2020 - 12:51:54: Minimal Version Restriction for eSTEAMATiON SemiSteam Native Clients : DISABLED
+L 05/01/2020 - 12:51:54: LEGACY RevEmu 1-St Generation Clients: DROP
+L 05/01/2020 - 12:51:54: LEGACY RevEmu 2-Nd Generation Clients: ACCEPT
+L 05/01/2020 - 12:51:54: LEGACY RevEmu 3-Rd Generation Clients: ACCEPT
+L 05/01/2020 - 12:51:54: RevEmu 4-Th Generation Clients: ACCEPT
+L 05/01/2020 - 12:51:54: RevCrew's SteamUp Clients: ACCEPT
+L 05/01/2020 - 12:51:54: SteamUp/AVSMP Clients: ACCEPT
+L 05/01/2020 - 12:51:54: HookEmu Clients: ACCEPT
+L 05/01/2020 - 12:51:54: AVSEMU Clients: DROP
+L 05/01/2020 - 12:51:54: Legit Valve and Cracked Steam Clients: ACCEPT
+L 05/01/2020 - 12:51:54: SETTI server scanner: ACCEPT
+L 05/01/2020 - 12:51:54: LEGACY HL1 WON(-nosteam) Clients: ACCEPT
+L 05/01/2020 - 12:51:54: Unknown Clients: DROP
+L 05/01/2020 - 12:51:54: Unknown Steam simulating Clients: DROP
+L 05/01/2020 - 12:51:54: Unknown NonSteam simulating Clients: DROP
+L 05/01/2020 - 12:51:54: Unknown TokenLess Clients: DROP
+L 05/01/2020 - 12:51:54: 
+[eSTEAMATiON REJECTION SETTINGS]
+L 05/01/2020 - 12:51:54: REJECT Clients after initial validation process compliation: ENABLED
+L 05/01/2020 - 12:51:54: USE CUSTOM messages for Client's rejection: DISABLED
+L 05/01/2020 - 12:51:54: CUSTOM rejection messages file line scan limit: 8192 bytes per line
+L 05/01/2020 - 12:51:54: 
+[eSTEAMATiON GLOBAL ID-GENERATION MODE]
+L 05/01/2020 - 12:51:54: GLOBAL SteamID mode for Non-Steam Client's without unique ID's support: by IP
+L 05/01/2020 - 12:51:54: GLOBAL SteamID mode for Supported(Known) NonSteam Clients: Unique ID's(Depends on Emulator)
+L 05/01/2020 - 12:51:54: GLOBAL SteamID mode for Legit Valve and Cracked Steam Clients: VALVE's Unique ID's
+L 05/01/2020 - 12:51:54: GLOBAL SteamID mode for Steam clients which failed to authenticate: Classic DROP
+L 05/01/2020 - 12:51:54: HookEmu and SteamEmu ID compatability mode: ENABLED
+L 05/01/2020 - 12:51:54: SteamEmu COMPAT LEVEL: NATIVE eSTEAMATiON 2.0
+L 05/01/2020 - 12:51:54: 
+[eSTEAMATiON LOGGING]
+L 05/01/2020 - 12:51:54: Enable logging of Client type to console on connect: ENABLED(STAT)
+L 05/01/2020 - 12:51:54: Enable logging of REJECTED Client type to console on connect: ENABLED(STAT)
+L 05/01/2020 - 12:51:54: Enable DEBUG file logging: DISABLED
+L 05/01/2020 - 12:51:54: 
+
+L 05/01/2020 - 12:51:55: server_cvar: "wm_prefix_logs" "0"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_stats_enabled" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_stats_method" "2"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_stats_trace" "0"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_stats_trace_delay" "5"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_upload_results" "0"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_t" "Terrorists"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_ct" "Counter-Terrorists"
+L 05/01/2020 - 12:51:55: server_cvar: "sv_minrate" "25000"
+L 05/01/2020 - 12:51:55: server_cvar: "sv_maxrate" "35000"
+L 05/01/2020 - 12:51:55: server_cvar: "sv_minupdaterate" "66"
+L 05/01/2020 - 12:51:55: server_cvar: "sv_maxupdaterate" "100"
+L 05/01/2020 - 12:51:55: server_cvar: "sv_mincmdrate" "66"
+L 05/01/2020 - 12:51:55: server_cvar: "sv_maxcmdrate" "100"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_active" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_max_players" "10"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_play_out" "0"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_auto_knife" "0"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_round_money" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_min_ready" "10"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_ingame_scores" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_knife_hegrenade" "0"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_knife_flashbang" "0"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_knife_smokegrenade" "0"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_lock_teams" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_auto_swap" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_auto_record" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_auto_kick_team" "0"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_auto_kick_delay" "10"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_warmup_respawn" "0"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_damage" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_bomb_frags" "0"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_defuse_frags" "0"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_remove_deathcam" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_remove_deathcam_delay" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_remove_help_hints" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_remove_grenade_sound" "0"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_remove_ragdoll" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_remove_ragdoll_delay" "2"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_block_nightvision" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_block_warm_up_grenades" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_show_info" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_require_names" "0"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_auto_ready" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "wm_half_auto_ready" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "mp_footsteps" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "mp_fraglimit" "0"
+L 05/01/2020 - 12:51:55: server_cvar: "mp_maxrounds" "0"
+L 05/01/2020 - 12:51:55: server_cvar: "mp_freezetime" "10"
+L 05/01/2020 - 12:51:55: server_cvar: "mp_fadetoblack" "0"
+L 05/01/2020 - 12:51:55: server_cvar: "mp_buytime" "0.25"
+L 05/01/2020 - 12:51:55: server_cvar: "mp_startmoney" "800"
+L 05/01/2020 - 12:51:55: server_cvar: "mp_friendlyfire" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "mp_autoteambalance" "0"
+L 05/01/2020 - 12:51:55: server_cvar: "mp_hostagepenalty" "0"
+L 05/01/2020 - 12:51:55: server_cvar: "mp_roundtime" "1.75"
+L 05/01/2020 - 12:51:55: server_cvar: "mp_forcerespawn" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "mp_forcecamera" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "mp_falldamage" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "mp_flashlight" "0"
+L 05/01/2020 - 12:51:55: server_cvar: "mp_limitteams" "0"
+L 05/01/2020 - 12:51:55: server_cvar: "mp_timelimit" "0"
+L 05/01/2020 - 12:51:55: server_cvar: "mp_playerid" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "mp_c4timer" "35"
+L 05/01/2020 - 12:51:55: server_cvar: "sv_alltalk" "0"
+L 05/01/2020 - 12:51:55: server_cvar: "sv_pausable" "0"
+L 05/01/2020 - 12:51:55: server_cvar: "sv_cheats" "0"
+L 05/01/2020 - 12:51:55: server_cvar: "sv_consistency" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "sv_voiceenable" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "sv_footsteps" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "sv_gravity" "800"
+L 05/01/2020 - 12:51:55: server_cvar: "sv_friction" "4"
+L 05/01/2020 - 12:51:55: server_cvar: "sv_accelerate" "5"
+L 05/01/2020 - 12:51:55: server_cvar: "sv_airaccelerate" "10"
+L 05/01/2020 - 12:51:55: server_cvar: "sv_stopspeed" "75"
+L 05/01/2020 - 12:51:55: server_cvar: "sv_stepsize" "18"
+L 05/01/2020 - 12:51:55: server_cvar: "sv_maxspeed" "320"
+L 05/01/2020 - 12:51:55: server_cvar: "mp_allowspectators" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "sv_specaccelerate" "5"
+L 05/01/2020 - 12:51:55: server_cvar: "sv_specnoclip" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "sv_specspeed" "3"
+L 05/01/2020 - 12:51:55: server_cvar: "mp_roundtime" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "mp_startmoney" "16000"
+L 05/01/2020 - 12:51:55: server_cvar: "mp_buytime" "1"
+L 05/01/2020 - 12:51:55: server_cvar: "mp_freezetime" "3"
+L 05/01/2020 - 12:51:55: server_cvar: "tv_delay" "90"
+L 05/01/2020 - 12:51:55: [META] Loaded 0 plugins (2 already loaded)
+L 05/01/2020 - 12:51:55: [META] Loaded 0 plugins (2 already loaded)
+L 05/01/2020 - 12:51:55: Log file closed
